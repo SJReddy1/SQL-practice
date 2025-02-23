@@ -5,4 +5,3 @@ Write a query to display the list of bus numbers and names where the source and 
 > **Note:** 
 > Evaluate only the respective query to get the desired result.
 
-![database diagram](../../../database_1.jpg)
